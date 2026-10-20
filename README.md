@@ -2,20 +2,33 @@
 
 ### Senior Technical Writer | Product Documentation | Structured Authoring | AI-Assisted Documentation
 
-I simplify complex enterprise software into clear, structured, 
-and user-focused documentation.
+I transform complex product functionality into clear, structured, and
+user-focused documentation.
 
-My experience includes end-to-end documentation for enterprise 
-applications, including user guides, configuration guides, 
-release notes, patch notes, FAQs, and process documentation.
+11+ years of technical writing experience includes enterprise product documentation, user guides,
+configuration guides, release notes, structured authoring, content
+management, and documentation process improvement.
+
+I am particularly interested in combining strong technical writing
+practices with AI-assisted documentation and Docs-as-Code workflows.
+
+---
 
 ## 👨‍💻 About Me
 
-I'm a Senior Technical Writer with 11+ years of experience working closely with
-product managers, developers, QA engineers, SMEs, and other
-cross-functional teams.
+I'm a Senior Technical Writer experienced in managing documentation
+through the complete documentation development lifecycle.
 
-My focus areas include:
+I collaborate with product managers, developers, QA engineers,
+business analysts, SMEs, and other stakeholders to understand
+complex functionality and translate it into usable documentation.
+
+My documentation philosophy is simple:
+
+> Understand the user. Understand the product. Explain only what the
+> user needs to successfully complete the task.
+
+My key areas of interest include:
 
 - Product Documentation
 - User Guides
@@ -23,47 +36,100 @@ My focus areas include:
 - Release Notes and Patch Notes
 - Structured Authoring
 - DITA XML
+- Information Architecture
+- Content Reuse
 - Documentation Lifecycle Management
-- Content Management
-- AI-Assisted Technical Writing
 - Docs-as-Code
+- AI-Assisted Technical Writing
 - Documentation Process Improvement
 
-## 📂 Featured Work
+---
 
-➡️ YOUR-PORTFOLIO-LINK
+## 📂 Technical Writing Portfolio
 
-| Project | What it demonstrates |
-|---------|----------------------|
-| Configuration Guide Sample | Complex configuration explained clearly |
-| Release Notes Sample | Customer-focused release communication |
-| User Guide Sample | Task-oriented product documentation |
-| Documentation Architecture | Content organization and reuse |
-| AI Documentation Workflow | AI-assisted authoring and review |
+👉 [View my Technical Writing Portfolio](YOUR-PORTFOLIO-URL)
 
-## 🛠 Skills & Tools
+The portfolio contains fictionalized documentation samples designed
+to demonstrate my writing methodology without exposing proprietary
+product or customer information.
 
-**Documentation**
-DITA XML · User Guides · Configuration Guides · Release Notes ·
-FAQs · SOPs · Online Help
+### Featured Samples
 
-**Authoring & CMS**
-MadCap Flare · Adobe RoboHelp · Confluence · SharePoint
+| Portfolio Project | Demonstrates |
+|---|---|
+| 📘 User Guide | Task-oriented documentation and role-based instructions |
+| ⚙️ Configuration Guide | Complex configuration and dependency documentation |
+| 📋 Release Notes | Customer-focused release communication |
+| 🧩 DITA XML | Structured authoring and reusable content |
+| 🔀 Docs-as-Code | Git-based documentation workflow |
+| 🤖 AI-Assisted Documentation | AI-supported authoring with human validation |
 
-**Development & Version Control**
-Git · GitHub · Bitbucket 
+---
 
-**Project / Collaboration**
-Jira · Agile · Scrum
+## 🛠️ Technical Writing Skills
 
-**AI & Documentation**
-Microsoft Copilot · AI-Assisted Authoring · Prompt Engineering ·
-Content Review · Documentation Automation
+### Documentation
 
-## 🔄 Documentation Approach
+- User Guides
+- Configuration Guides
+- Release Notes
+- Patch Notes
+- FAQs
+- Online Help
+- Process Documentation
+- SOPs
+- Troubleshooting Content
+- Structured Documentation
 
-Research → SME Collaboration → Content Design → Authoring →
-Technical Review → Editing → Publishing → Feedback → Maintenance
+### Authoring & Content Management
+
+- MadCap Flare
+- Adobe RoboHelp
+- DITA XML
+- Confluence
+- SharePoint
+- Markdown
+
+### Version Control & Collaboration
+
+- Git
+- GitHub
+- Bitbucket
+- Jira
+- Agile / Scrum
+
+### AI-Assisted Documentation
+
+- Microsoft Copilot
+- AI-Assisted Authoring
+- Prompt Design
+- Source-Grounded Content Generation
+- AI Content Review
+- Terminology Validation
+- Human-in-the-Loop Documentation
+
+---
+
+## 🔄 My Documentation Approach
+
+```text
+Requirement Analysis
+        ↓
+Audience Identification
+        ↓
+SME / Engineering Discussion
+        ↓
+Information Architecture
+        ↓
+Content Development
+        ↓
+Technical Review
+        ↓
+Editorial Review
+        ↓
+Publication
+        ↓
+Feedback & Maintenance
 
 ## 📫 Connect With Me
 
