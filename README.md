@@ -47,7 +47,7 @@ My key areas of interest include:
 
 ## 📂 Technical Writing Portfolio
 
-👉 [View my Technical Writing Portfolio](YOUR-PORTFOLIO-URL)
+👉 [View my Technical Writing Portfolio](https://github.com/arunpandi-tw/technical-writing-portfolio)
 
 The portfolio contains fictionalized documentation samples designed
 to demonstrate my writing methodology without exposing proprietary
