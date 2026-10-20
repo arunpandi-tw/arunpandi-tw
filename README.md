@@ -1,5 +1,6 @@
+<div align="center">
+        
 # Hi, I'm Arun Pandi 👋
-
 ### Senior Technical Writer | Product Documentation | Structured Authoring | AI-Assisted Documentation
 
 I transform complex product functionality into clear, structured, and
@@ -11,6 +12,11 @@ management, and documentation process improvement.
 
 I am particularly interested in combining strong technical writing
 practices with AI-assisted documentation and Docs-as-Code workflows.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-pandi-95012864/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aeroarunu2@gmail.com)
+
+</div>
 
 ---
 
