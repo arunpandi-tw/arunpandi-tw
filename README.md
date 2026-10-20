@@ -131,6 +131,3 @@ Publication
         ↓
 Feedback & Maintenance
 
-## 📫 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/arun-pandi-95012864/
