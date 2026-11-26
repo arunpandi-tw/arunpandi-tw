@@ -1,6 +1,6 @@
 <div align="center">
         
-# Hi, I'm Arun Pandi 👋
+# Hi, I'm Arun Pandi👋
 ### Senior Technical Writer | Product Documentation | Structured Authoring | AI-Assisted Documentation
 
 I transform complex product functionality into clear, structured, and
